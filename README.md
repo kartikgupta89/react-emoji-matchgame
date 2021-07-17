@@ -1,2 +1,2 @@
-# react-emoji-matchgame
+# react-emoji
 Created with CodeSandbox
